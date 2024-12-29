@@ -1,0 +1,1 @@
+select * from {{ ref('stg_listings_cleansed') }} where minimum_nights<1 limit 10
