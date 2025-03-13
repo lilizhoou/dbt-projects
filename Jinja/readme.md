@@ -20,3 +20,5 @@ Combining SQL with Jinja can be very useful in dbt, as Jinja is a templating lan
 
 - [dbt docs on Jinja](https://docs.getdbt.com/docs/build/jinja-macros)
 - [dbt Learn lecture video on Jinja](https://learn.getdbt.com/learn/course/jinja-macros-and-packages/getting-started-with-jinja-40min/jinja-basics?page=4)
+  - [learn_jina] (https://github.com/lilizhoou/dbt-projects/blob/main/Jinja/learn_jinja.sql)
+  - [exercise](https://github.com/lilizhoou/dbt-projects/blob/main/Jinja/exercise.sql)
