@@ -5,8 +5,8 @@ Macros are defined in .sql files, typically in your macros directory [doc](https
 
 ## Learn Basic How Macro Works
 - [dbt lecture](https://learn.getdbt.com/learn/course/jinja-macros-and-packages/working-with-macros-60min/macros?page=1)
-[cents_to_dollars.sql](https://github.com/lilizhoou/dbt-projects/blob/main/macros/learn-macro/cents_to_dollars.sql)
-[limit_data_in_dev.sql](https://github.com/lilizhoou/dbt-projects/blob/main/macros/learn-macro/limit_data_in_dev.sql)
+  - [cents_to_dollars.sql](https://github.com/lilizhoou/dbt-projects/blob/main/macros/learn-macro/cents_to_dollars.sql)
+  - [limit_data_in_dev.sql](https://github.com/lilizhoou/dbt-projects/blob/main/macros/learn-macro/limit_data_in_dev.sql)
 
 
 ## Advanced Macro
