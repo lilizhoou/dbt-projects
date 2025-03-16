@@ -68,8 +68,7 @@ models:
               config:
                 severity: warn
 
-# intermediate model 
-
+# intermediate model #
 
   - name: fct_reviews
     columns:
