@@ -11,4 +11,4 @@ Macros are defined in .sql files, typically in your macros directory [doc](https
 
 
 ## Advanced Macro
-    pass
+  - [grant_select.sql](https://github.com/lilizhoou/dbt-projects/blob/main/macros/learn-macro/grant_select.sql)
